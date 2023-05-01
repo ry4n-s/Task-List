@@ -75,3 +75,12 @@ h1 {
     display: flex;
     justify-content: space-between;
   }
+
+  footer {
+      font-size:20 px;
+      background-color: lightskyblue;
+      margin-top: 810px;
+      padding: 8px 20px;
+      font-family: trebuchet ms, times;
+      color: #fff;
+  }
